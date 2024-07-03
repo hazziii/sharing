@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331235515879",
+    "project_id": "instant-language",
+    "storage_bucket": "instant-language.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331235515879:android:77cf885e2f916636247142",
+        "android_client_info": {
+          "package_name": "com.example.instant_language_trans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMLzEsFOTfsO20PwIn-uJNqGs_iP4l6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
