@@ -1,5 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:instant_language_trans/auth_page.dart';
 import 'package:instant_language_trans/main.dart%20for%20login.dart';
 import 'home_page.dart';
 import 'login_page.dart';
@@ -17,7 +18,7 @@ builder: (context, snapshot) {
 if (snapshot.hasData) {
 return HomePage();
 } else {
-return LoginPage();
+return AuthPage();
 }
 },
 ),
